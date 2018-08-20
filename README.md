@@ -22,3 +22,5 @@ test:用户1~30，历史信息12~30
 
 特征工程不同
 
+队友开源：https://github.com/FNo0/2018-KUAISHOU-Top28
+这个比赛我们一共四个模型
